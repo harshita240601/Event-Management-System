@@ -1,1 +1,1 @@
-# Event-Management-System
+Multi-Threaded Event Reservation System.
